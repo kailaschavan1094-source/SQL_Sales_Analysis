@@ -1,7 +1,7 @@
 # SQL Sales Analysis Project
 ## Project Screenshot
 
-![SQL Analysis](Screenshot1.png)
+![SQL Analysis](Screenshot%202026-06-24%20111619.png)
 ## Project Overview
 This project analyzes Superstore sales data using PostgreSQL. The goal is to identify sales trends, profit performance, customer behavior, and category-wise performance.
 
